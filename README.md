@@ -11,4 +11,4 @@ Xposed模块，解除安卓（APP）对Appium自动化测试的限制：
 
 5、\app\build\outputs\apk\debug\XNoEleEx.apk有生成好的apk，可以使用此apk进行验证，建议下载selendroid官网的selendroid-test-app.apk进行测试
 
-5、在逍遥模拟器7.1.0（Android 5.1.1），Xposed 89版本测试通过
+6、在逍遥模拟器7.1.0（Android 5.1.1），Xposed 89版本测试通过
